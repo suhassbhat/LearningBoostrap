@@ -30,9 +30,12 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^3.1.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "grunt-usemin": "^3.1.1",
     "gulp": "^3.9.0",
     "gulp-sass": "^5.1.0",
+=======
+>>>>>>> parent of 88a8557 (Grunt Part 2)
 =======
 >>>>>>> parent of 88a8557 (Grunt Part 2)
     "htmlmin": "^0.0.7",
