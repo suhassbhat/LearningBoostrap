@@ -38,3 +38,6 @@ gulp.task('copyfonts', function() {
     gulp.src('./node_modules/font-awesome/fonts/**/*.{ttf,woff,eoff,svg}*').pipe(gulp.dest('./dist/fonts'));
 });
 
+gulp.task('imagemin', function() {
+    return gulp.src('')
+})
